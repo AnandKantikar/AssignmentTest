@@ -1,0 +1,41 @@
+INFO: ***********CreateNewCompTest Starts*******************
+Mar 01, 2019 2:09:29 AM com.backbase.helpermethods.HelperMethods createComp
+INFO: Add Computer button Clicked
+Mar 01, 2019 2:09:29 AM com.backbase.helpermethods.HelperMethods createComp
+INFO: Entered Computer Name :MicroMax
+Mar 01, 2019 2:09:35 AM com.backbase.helpermethods.HelperMethods createComp
+INFO: Cancel button Clicked
+Mar 01, 2019 2:09:36 AM com.backbase.helpermethods.HelperMethods createComp
+INFO: Add Computer button Clicked
+Mar 01, 2019 2:09:37 AM com.backbase.helpermethods.HelperMethods createComp
+INFO: Entered Computer Name :MicroMax
+Mar 01, 2019 2:09:39 AM com.backbase.helpermethods.HelperMethods createComp
+INFO: Create this computer button Clicked
+Mar 01, 2019 2:09:40 AM com.backbase.helpermethods.HelperMethods searchCompNme
+INFO: Entered Computer Name :MicroMaxin Filtered by Name text field
+Mar 01, 2019 2:09:40 AM com.backbase.helpermethods.HelperMethods searchCompNme
+INFO: Filter by Name button Clicked
+Mar 01, 2019 2:09:42 AM com.backbase.app.HeroKUAppTest createNewCompTest
+INFO: MicroMax   Clicked
+Mar 01, 2019 2:10:32 AM com.backbase.app.HeroKUAppTest createNewCompTest
+INFO: Cancel button Clicked
+Mar 01, 2019 2:10:32 AM com.backbase.helpermethods.HelperMethods searchCompNme
+INFO: Entered Computer Name :MicroMaxin Filtered by Name text field
+Mar 01, 2019 2:10:33 AM com.backbase.helpermethods.HelperMethods searchCompNme
+INFO: Filter by Name button Clicked
+Mar 01, 2019 2:10:34 AM com.backbase.app.HeroKUAppTest createNewCompTest
+INFO: MicroMax   Clicked
+Mar 01, 2019 2:10:35 AM com.backbase.app.HeroKUAppTest createNewCompTest
+INFO: Save this computer button Clicked
+Mar 01, 2019 2:10:36 AM com.backbase.helpermethods.HelperMethods searchCompNme
+INFO: Entered Computer Name :MicroMaxin Filtered by Name text field
+Mar 01, 2019 2:10:37 AM com.backbase.helpermethods.HelperMethods searchCompNme
+INFO: Filter by Name button Clicked
+Mar 01, 2019 2:10:37 AM com.backbase.helpermethods.HelperMethods deleteComp
+INFO: MicroMax   Clicked
+Mar 01, 2019 2:10:39 AM com.backbase.helpermethods.HelperMethods deleteComp
+INFO: MicroMax   Clicked
+Mar 01, 2019 2:10:40 AM com.backbase.helpermethods.HelperMethods searchCompNme
+INFO: Entered Computer Name :MicroMaxin Filtered by Name text field
+Mar 01, 2019 2:10:41 AM com.backbase.helpermethods.HelperMethods searchCompNme
+INFO: Filter by Name button Clicked

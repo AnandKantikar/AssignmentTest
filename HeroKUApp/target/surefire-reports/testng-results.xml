@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="39981" started-at="2019-02-28T08:26:57Z" finished-at="2019-02-28T08:27:37Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="39981" started-at="2019-02-28T08:26:57Z" finished-at="2019-02-28T08:27:37Z">
+      <class name="com.backbase.app.HeroKUAppTest">
+        <test-method status="PASS" signature="onBeforeSuite()[pri:0, instance:com.backbase.app.HeroKUAppTest@4157f54e]" name="onBeforeSuite" is-config="true" duration-ms="357" started-at="2019-02-28T13:56:56Z" finished-at="2019-02-28T13:56:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onBeforeSuite -->
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:com.backbase.app.HeroKUAppTest@4157f54e]" name="launchApp" is-config="true" duration-ms="8655" started-at="2019-02-28T13:56:57Z" finished-at="2019-02-28T13:57:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="createNewCompTest()[pri:0, instance:com.backbase.app.HeroKUAppTest@4157f54e]" name="createNewCompTest" duration-ms="2217" started-at="2019-02-28T13:57:05Z" finished-at="2019-02-28T13:57:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewCompTest -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.backbase.app.HeroKUAppTest@4157f54e]" name="getResult" is-config="true" duration-ms="954" started-at="2019-02-28T13:57:08Z" finished-at="2019-02-28T13:57:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createNewCompTest status=SUCCESS method=HeroKUAppTest.createNewCompTest()[pri:0, instance:com.backbase.app.HeroKUAppTest@4157f54e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:com.backbase.app.HeroKUAppTest@4157f54e]" name="launchApp" is-config="true" duration-ms="7040" started-at="2019-02-28T13:57:09Z" finished-at="2019-02-28T13:57:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="createNewCompTest1()[pri:0, instance:com.backbase.app.HeroKUAppTest@4157f54e]" name="createNewCompTest1" duration-ms="20825" started-at="2019-02-28T13:57:16Z" finished-at="2019-02-28T13:57:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewCompTest1 -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.backbase.app.HeroKUAppTest@4157f54e]" name="getResult" is-config="true" duration-ms="270" started-at="2019-02-28T13:57:36Z" finished-at="2019-02-28T13:57:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createNewCompTest1 status=SUCCESS method=HeroKUAppTest.createNewCompTest1()[pri:0, instance:com.backbase.app.HeroKUAppTest@4157f54e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="onAfterSuite()[pri:0, instance:com.backbase.app.HeroKUAppTest@4157f54e]" name="onAfterSuite" is-config="true" duration-ms="3" started-at="2019-02-28T13:57:37Z" finished-at="2019-02-28T13:57:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onAfterSuite -->
+      </class> <!-- com.backbase.app.HeroKUAppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

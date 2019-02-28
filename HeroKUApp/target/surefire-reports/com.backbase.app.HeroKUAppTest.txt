@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.backbase.app.HeroKUAppTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 41.534 s - in com.backbase.app.HeroKUAppTest
